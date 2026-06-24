@@ -124,22 +124,22 @@ try {
 ## 📸 Screenshots
 
 ### Dashboard — Login Success Alert (auto-fades after 4s)
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](dashboard.png)
 
 ### Register — Client-Side Validation Errors
-![Register Validation](screenshots/register-validation.png)
+![Register Validation](register-validation.png)
 
 ### Register — Server-Side Validation Errors
-![Register Server Errors](screenshots/register-server-errors.png)
+![Register Server Errors](register-server-errors.png)
 
 ### Login — Validation Error
-![Login Validation](screenshots/login-validation.png)
+![Login Validation](login-validation.png)
 
 ### Manage Users — DB Error Handling
-![DB Error](screenshots/db-error.png)
+![DB Error](db-error.png)
 
 ### Edit User — Field-Level Errors
-![Edit Validation](screenshots/edit-validation.png)
+![Edit Validation](edit-validation.png)
 
 ---
 
